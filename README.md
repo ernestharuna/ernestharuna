@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ernestharuna.
+- I'm an Frontend Developer with focus on using Angular framework.
+- Thanks for visiting my github,  you can check out my portfolio here - https://ernestharuna.github.io/ernest-portfolio
